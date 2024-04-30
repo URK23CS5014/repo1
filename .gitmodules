@@ -1,0 +1,3 @@
+[submodule "git-demo"]
+	path = git-demo
+	url = https://github.com/URK23CS5014/git-demo.git
